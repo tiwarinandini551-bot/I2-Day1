@@ -1,0 +1,12 @@
+{
+  "name": "i2-day1-server",
+  "version": "1.0.0",
+  "description": "Simple Express server with /ping endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
